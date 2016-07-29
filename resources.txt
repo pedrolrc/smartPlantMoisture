@@ -1,0 +1,8 @@
+Raspberry Pi Plant Pot Moisture Sensor with Email Notification Tutorial
+http://www.modmypi.com/blog/raspberry-pi-plant-pot-moisture-sensor-with-email-notification-tutorial
+
+Build a Raspberry Pi Moisture Sensor to Monitor Your Plants
+http://computers.tutsplus.com/tutorials/build-a-raspberry-pi-moisture-sensor-to-monitor-your-plants--mac-52875
+
+Automated plant watering with Arduino
+http://www.raspberry-pi-geek.com/Archive/2013/01/Automated-plant-watering-with-Arduino
